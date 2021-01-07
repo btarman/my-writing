@@ -1,0 +1,19 @@
+p {
+  font-family: 'Special Elite', cursive;
+  text-align: right;
+  color: white;
+  padding: 1% 1% 1% 0%;
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+.row {
+  margin-bottom: 1px;
+}
+.title-div {
+  border-bottom: 1px solid black;
+
+}
+.panel {
+  background-color: black;
+}
